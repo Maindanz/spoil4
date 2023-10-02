@@ -1,0 +1,26 @@
+ 
+Html
+
+<div class="list-group">
+   <div class="list-group-item list-header" data-name="spoiler-title">
+  
+   </div>
+   <div class="list-group-item list-content spoiler-body">
+     
+   </div>
+
+   <div class="list-group-item list-header" data-name="spoiler-title">
+   
+   </div>
+   <div class="list-group-item list-content spoiler-body">
+     
+   </div>
+
+   <div class="list-group-item list-header" data-name="spoiler-title">
+     
+   </div>
+   <div class="list-group-item list-content spoiler-body">
+    
+   </div>
+ </div>
+
